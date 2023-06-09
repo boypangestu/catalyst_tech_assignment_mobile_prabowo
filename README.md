@@ -4,13 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Mobile Engineer - Technical Test
 
-A few resources to get you started if this is your first Flutter project:
+Note for Recruiters
+If you are a recruiter evaluating my technical skills, please feel free to explore this repository. You will find code samples, algorithms, and other artifacts that demonstrate my programming abilities and problem-solving skills. Additionally, I have attached an APK file for your convenience. You can find it in the "APK" folder of this repository.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Note for Users
+If you are a user seeking the APK file associated with this repository, you're in the right place. Look for the "APK" folder, where you will find the APK file ready for installation on your Android device. Feel free to download and install the application to experience its features firsthand.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Please note that the APK file may be located in the root of the repository or within a subfolder named "APK". Make sure to check both locations to locate the desired file.
+
+Thank you for visiting this repository and your interest in the technical evaluation process on Catalyst Tech. Should you have any questions or require further assistance, please don't hesitate to reach out.
